@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWLLZYuBjgqnTZ/Mo+v0PuMULm2QrwmUX09vuEGmRqEDN3uUB2T+Rs47jGuXcpLr4bJGsTrPdrzTj94jcvawTw==",
+  "success": true,
+  "projectFilePath": "D:\\BSUIR\\course-2\\KSiS\\Laba1\\Laba1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladislav\\.nuget\\packages\\system.directoryservices\\9.0.0-preview.1.24080.9\\system.directoryservices.9.0.0-preview.1.24080.9.nupkg.sha512"
+  ],
+  "logs": []
+}
